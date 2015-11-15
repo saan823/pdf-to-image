@@ -10,7 +10,7 @@ class Pdf
 {
     protected $pdfFile;
 
-    protected $resolution = 144;
+    protected $resolution = 300;
 
     protected $outputFormat = '';
 
